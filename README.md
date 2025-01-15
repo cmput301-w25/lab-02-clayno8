@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Johanns Bibit
+- **CCID:** Bibit
 
 ## References and Resources
 
