@@ -8,7 +8,10 @@
 
 ## References and Resources
 
-Android Developer Studio Documentation
+Android Developer Studio Documentation https://developer.android.com/reference/android/widget/EditText
+Geeks for Geeks https://www.geeksforgeeks.org/constraintlayout-in-android/, https://www.geeksforgeeks.org/handling-click-events-button-android-java/
+Include Help.com https://www.includehelp.com/android/List-view-setOnItemClickListener.aspx
+
 
 ## Verbal Collaboration
 
