@@ -1,1 +1,2 @@
 Good job.
+Note: Since you don't check if an item is selected or not, your app crashed when the list is empty.
